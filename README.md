@@ -10,6 +10,7 @@ Projects using the schema expressed in this sample template may easily use the s
 
 ```
 <files>
+
 deploy/
 -- Dockerfile  # Used for build and push operations
 -- deploy.yml  # Used to deploy to kubernetes
