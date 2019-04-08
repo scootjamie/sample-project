@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # NGINX webserver that serves a simple page containing its hostname, IP address and port as wells as the request URI and the local time of the webserver.
 
@@ -21,3 +22,12 @@ Request ID: 48ba0db334a6ed165e783469c2af868f
 ```
 
 The images were created to be used as simple backends for various load balancing demos.
+=======
+# sample-project
+Sample Project
+
+This project is a template intended to be cloned to initialize a dev project, to enable easy conformance with a standardized build and deploy project.
+
+It's also OK to update an existing dev project to meet the schema expressed here. 
+
+>>>>>>> 75e054ef58f41fe4c914a49ade489cd2432c4d2a
