@@ -31,3 +31,10 @@ This project is a template intended to be cloned to initialize a dev project, to
 It's also OK to update an existing dev project to meet the schema expressed here. 
 
 >>>>>>> 75e054ef58f41fe4c914a49ade489cd2432c4d2a
+sample-project
+Sample Project
+
+This project is a template intended to be cloned to initialize a dev project, to enable easy conformance with a standardized build and deploy project.
+
+It's also OK to update an existing dev project to meet the schema expressed here.
+
