@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
       - name: sample-app
-        image: docker.prod.corp.scoot.co:5000/sample-app
+        image: gcr.io/scoot-networks-llc/sample-app
         resources:
           limits:
             memory: 256Mi
